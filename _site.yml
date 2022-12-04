@@ -4,9 +4,9 @@ author: Ben Swanson
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
 output: 
   html_document:
-    toc: true
+    toc: false
     toc_depth: 4
-    toc_float: true
+    toc_float: false
     number_sections: false
     code_folding: hide
     df_print: paged
