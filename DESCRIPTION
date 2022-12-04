@@ -1,0 +1,8 @@
+Package: placeholder
+Title: Mudcats Stats
+Version: 1.0.0
+Imports:
+  rmarkdown,
+  blogdown,
+  remotes, 
+  fidelius
